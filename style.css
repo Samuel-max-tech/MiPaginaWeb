@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+header{
+	background-color: orange;
+	color: white;
+	text-align: center;
+	padding:30px ;
+}
+#titulo{
+	font-size:30px;
+}
+nav ul{
+	list-style: none;
+	text-align: center;
+	background-color: lightblue;
+	padding: 15px;
+
+}
+nav li{
+	display:inline;
+	margin-right:20px ;
+}
+nav a{
+	text-decoration: none;
+	color: white;
+	padding: auto;
+}
+.destacado{
+	background-color: lightgray;
+	padding: 165px;
+	text-align: left;
+}
+.destacado h3{
+	color: turquoise;
+	padding-bottom:20px ;
+}
+footer{
+	background-color: lightblue;
+	padding: 10px;	
+	text-align: right;
+}
