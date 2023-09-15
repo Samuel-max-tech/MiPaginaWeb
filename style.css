@@ -4,7 +4,7 @@
 	font-family: sans-serif;
 }
 header{
-	background-color: orange;
+	background-color: darkorange;
 	color: white;
 	text-align: center;
 	padding:30px ;
@@ -30,11 +30,11 @@ nav a{
 }
 .destacado{
 	background-color: lightgray;
-	padding: 165px;
+	padding: 160px;
 	text-align: left;
 }
 .destacado h3{
-	color: turquoise;
+	color: darkblue;
 	padding-bottom:20px ;
 }
 footer{
